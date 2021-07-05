@@ -25,6 +25,10 @@ img {
     height: auto;
 }
 
+.card {
+    width: calc(20rem + 4vw);
+}
+
 .name {
     font-family: 'Jura', sans-serif;
 }
