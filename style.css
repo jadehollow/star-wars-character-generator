@@ -26,7 +26,7 @@ img {
 }
 
 .card {
-    width: calc(20rem + 4vw);
+    width: calc(18rem + 2vw);
 }
 
 .name {
